@@ -1,4 +1,4 @@
-a=5
-b=6
-c= a+b
-print(c)
+num1 = 5
+num2 = 3
+result = num1 + num2
+print(result)
